@@ -11,7 +11,7 @@ import os
 def decrypt():
     password=code.get()
 
-    if password =="06545":
+    if password =="056464":
         screen2=Toplevel(screen)
         screen2.title("Decryption")
         screen2.geometry("400x200")
